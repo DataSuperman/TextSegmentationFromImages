@@ -1,0 +1,23 @@
+Windows XP (stylized as Windowsxp and codenamed Whistler)[5] is a personal computer operating system that was
+produced by Microsoft as part of the Windows NT family of operating systems. It was released to manufacturing
+on August 24, 2001, and broadly released for retail sale on October 25, 2001. Development of Windows XP began
+in the late 1990s as "Neptune", an operating system built on the Windows NT kernel which was intended specifically
+for mainstream consumer use—an updated version of Windows 2000 was also originally planned for the business market.
+However, in January 2000, both projects were shelved in favor of a single OS codenamed "Whistler", which would
+serve as a single OS platform for both consumer and business markets. Windows XP was a major advance from the
+MS-DOS based versions of Windows in security, stability and efficiency[6] due to its use of Windows NT underpinnings.
+It introduced a significantly redesigned graphical user interface and was the first version of Windows to use product
+activation in an effort to reduce its copyright infringement. Upon its release, Windows XP received generally positive
+reviews, with critics noting increased performance (especially in comparison to Windows ME), a more intuitive user
+interface, improved hardware support, and its expanded multimedia capabilities.[7] Despite some initial concerns over
+the new licensing model and product activation system, Windows XP eventually proved to be popular and widely used. It
+is estimated that at least 400 million copies of Windows XP were sold globally within its first five years of
+availability,[8][9] and at least one billion copies were sold by April 2014.[10] Sales of Windows XP licenses to
+original equipment manufacturers (OEMs) ceased on June 30, 2008, but continued for netbooks until October 2010.
+Windows XP remained popular even after the release of newer versions, particularly due to the poorly received release
+of its successor Windows Vista. Vista's 2009 successor, Windows 7, only overtook XP in total market share at the end
+of 2011.[11] Extended support for Windows XP ended on April 8, 2014, after which the operating system ceased receiving
+further support or security updates to most users. As of November 2016, Windows XP desktop market share makes it the
+fourth most popular Windows version after Windows 7, Windows 10 and Windows 8.1. Windows XP is still very popular in
+some countries; Africa as a whole and in Asia, e.g. in China, with it running on one third of desktop computers (and
+highest ranked in North Korea[12][13]).
